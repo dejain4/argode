@@ -13,5 +13,3 @@ In this repository, you will find resources, configuration files, and examples t
  
 3. Monitoring and Observability:
    - Strategies for monitoring and observing applications deployed using ArgoCD.
-
-     
